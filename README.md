@@ -1,7 +1,8 @@
 # Drift Interactive Learning <img src="assets/drift-il.svg" alt="Drift Interactive Learning logo" align="right" width="216">
 
-Drift Interactive Learning is an adaptive, hands‑on, browser‑based environment for learning the Drift programming language.
-The goal is simple: **teach Drift the way Drift is meant to be learned — through clarity, pragmatism, and real‑world problem solving.**
+Drift Interactive Learning is an adaptive, hands-on environment for exploring the Drift programming language. It focuses on practical skills, real-world patterns, and the parts of Drift that matter when building reliable software.
+When you finish, you’ll know how to approach real problems the “Drift way”: breaking them down cleanly, handling errors with confidence, and writing logic that behaves exactly as you expect. You’ll build instincts that carry over to any language and make you a stronger engineer overall.
+The full beginner path takes roughly two hours to complete, with each chapter designed to be short, focused, and easy to follow at your own pace. There’s no competition here — no cookies, scores, nor leaderboards. It’s an anonymous, restartable journey built to spark curiosity and help you discover the fun side of Drift programming.
 
 ---
 
