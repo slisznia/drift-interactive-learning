@@ -1,4 +1,4 @@
-# Drift Interactive Learning
+# Drift Interactive Learning <img src="assets/drift-il.svg" alt="Drift Interactive Learning logo" align="right" width="216">
 
 Drift Interactive Learning is an adaptive, hands‑on, browser‑based environment for learning the Drift programming language.
 The goal is simple: **teach Drift the way Drift is meant to be learned — through clarity, pragmatism, and real‑world problem solving.**
@@ -31,9 +31,9 @@ The journey starts with a short yes/no questionnaire that gauges experience:
 
 Based on answers, the site chooses the right track:
 
-- **Track A** — Fundamentals  
-- **Track B** — Core Drift concepts  
-- **Track C** — Advanced system‑level features  
+- **Track A** — Beginner  
+- **Track B** — Intermediate  
+- **Track C** — Advanced  
 
 This ensures no one is overwhelmed or bored.
 
@@ -46,7 +46,8 @@ Every lesson includes an in‑browser editor backed by the Drift compiler:
 - get instant compiler feedback  
 - visualize SSA and MIR  
 - solve exercises with automated checking  
-- progress stored locally (no login required)
+- progress stored locally (no login required)  
+- runs in a sandbox; no filesystem or network access unless mocked
 
 ---
 
@@ -95,7 +96,7 @@ More documents (architecture, onboarding, exercises, UI mockups) will be added s
 ---
 
 ## License
-To be announced.
+Licensed under the GNU General Public License v3.0 (GPL-3.0). A full `LICENSE` file will be added to the repository.
 
 ---
 
