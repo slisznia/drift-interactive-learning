@@ -28,9 +28,9 @@ Each concept is paired with explanations, examples, and hands‑on problem‑sol
 ### **2. Adaptive learning paths**
 The journey starts with a short yes/no questionnaire that gauges experience:
 
-- total beginner  
-- intermediate programmer  
-- advanced systems developer  
+- **Total beginner:** Little to no programming experience; may have only used spreadsheets or HTML/CSS and has never worked with typed languages or CLI tooling.
+- **Intermediate programmer:** Comfortable in one or two languages (e.g., Python/JavaScript), can write functions and tests, but limited exposure to systems topics like memory models, FFI, or ownership semantics.
+- **Advanced systems developer:** Regularly builds or maintains low-level or performance-sensitive software (e.g., Rust/C/C++ services, kernels, drivers, embedded), familiar with concurrency, ABI/FFI boundaries, and debugging toolchains.
 
 Based on answers, the site chooses the right track:
 
